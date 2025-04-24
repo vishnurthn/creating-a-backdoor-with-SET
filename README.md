@@ -24,9 +24,11 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ![image](https://github.com/user-attachments/assets/8b1163f5-4886-4fed-b1ef-1420c1284a63)
+
 sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
 It displays the following menu and select 2 for Website Attack Vectors:
+
 ![image](https://github.com/user-attachments/assets/951d4ecd-9b56-451f-bee9-034a13fd8c7d)
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
